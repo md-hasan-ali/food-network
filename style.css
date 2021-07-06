@@ -73,3 +73,18 @@ p {
 .recipies-item img {
     width:100%;
 }
+
+#followers {
+    padding: 70px 100px;
+}
+
+.follower-category {
+    display: flex;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+}
+
+.follower-item {
+    width: 33.33%;
+    text-align: center;
+}
