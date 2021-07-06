@@ -17,7 +17,7 @@ h2 {
 	color: tomato;
 }
 #header-area {
-	background: #ca543f;
+	background: rgba(202, 84, 63 ,0.9);
 	padding: 10px 60px;
 }
 
@@ -136,7 +136,7 @@ h2 {
 	text-align: center;
 }
 
-#our_comming-soon-product {
+#lattest-product {
 	padding: 80px 0;
 	background-image: url(images/bg3.jpg);
 	background-repeat: no-repeat;
